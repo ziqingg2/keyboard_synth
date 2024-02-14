@@ -1,5 +1,5 @@
 ## Command-line ASCII Keyboard Synthesizer
-A command-line synthesizer application that uses the ASCII keyboards on a computers as user input. Keys are mapped to notes on a piano. 
+A polyphonic command-line synthesizer application that uses the ASCII keyboards on a computers as user input. Keys are mapped to notes on a piano. 
 
 To run the program:
 1. type "./build.sh" in your terminal under the current directory of where all the source files are located
