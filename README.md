@@ -6,4 +6,4 @@ To run the program:
 2. run the executable: "./synth"
 3. start playing!
 
-<img width="570" alt="Screenshot 2024-02-13 at 8 37 45 PM" src="https://github.com/ziqingg2/keyboard_synth/assets/80551600/1c3d02b6-15a6-40cf-87f3-951db3fd21fc">
+<img width="568" alt="Screenshot 2024-02-13 at 9 01 12 PM" src="https://github.com/ziqingg2/keyboard_synth/assets/80551600/9eef3a17-cb1b-41a3-a4e7-c90fdd1e43ef">
