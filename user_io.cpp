@@ -93,6 +93,8 @@ void print_info(Synth *ps, char *msg)
     printf("wer yu opl  -> F3# to A4#\n");
     printf("asdfghjkl;\' -> F3 to B4\n");
     printf("'.' to stop playing oldest tone\n");
+    printf("'z' to transpose UP 1 octave\n");
+    printf("'x' to transpose DOWN 1 octave\n");
     printf("SpaceBar to quit\n"); /* line 6 */
     if (ps->num_keys == 0) {
         printf("\n");            /* line 7 is blank for now */
